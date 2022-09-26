@@ -1,0 +1,19 @@
+    [
+        {
+            "description": "Implement Team dashboard as per UX design",
+            "teamid": 2,
+            "team": {
+                "id": 2,
+                "name": "Frontend",
+                "color": "text-green-500 bg-green-100"
+            },
+            "userids": "27-29-28-",
+            "createdBy": {
+                "email": "a@lws.com",
+                "name": "aa",
+                "id": 27
+            },
+            "createdDate": "2022-09-26",
+            "id": 1
+        }
+    ]

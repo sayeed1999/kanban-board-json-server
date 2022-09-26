@@ -1,0 +1,22 @@
+    [
+        {
+        "id": 1,
+        "name": "pink",
+        "css": "text-pink-500 bg-pink-100"
+        },
+        {
+        "id": 2,
+        "name": "green",
+        "css": "text-green-500 bg-green-100"
+        },
+        {
+        "id": 3,
+        "name": "blue",
+        "css": "text-blue-500 bg-blue-100"
+        },
+        {
+        "id": 4,
+        "name": "orange",
+        "css": "text-orange-500 bg-orange-100"
+        }
+    ]

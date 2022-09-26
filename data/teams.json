@@ -1,0 +1,91 @@
+    [
+        {
+        "id": 1,
+        "name": "UI/UX",
+        "createdDate": "Dec 12",
+        "description": "This team designs the frontend of the project in an attractive user-loving manner",
+        "color": "text-pink-500 bg-pink-100",
+        "userids": "27-28-",
+        "users": [
+            {
+            "email": "a@lws.com",
+            "name": "aa",
+            "id": 27
+            },
+            {
+            "email": "b@lws.com",
+            "name": "bb",
+            "id": 28
+            }
+        ]
+        },
+        {
+        "id": 2,
+        "name": "Frontend",
+        "createdDate": "2022-08-01",
+        "description": "This team develops the frontend of the project in an attractive user-loving manner",
+        "color": "text-green-500 bg-green-100",
+        "userids": "27-29-28-",
+        "users": [
+            {
+            "email": "a@lws.com",
+            "name": "aa",
+            "id": 27
+            },
+            {
+            "email": "c@lws.com",
+            "password": "$2a$10$BOz2ejmdWhYNsHtehw7qT.xGBciNCP4X6Y/lL2brIJWHjYvbikbxW",
+            "name": "ccc",
+            "id": 29
+            },
+            {
+            "email": "b@lws.com",
+            "password": "$2a$10$BOz2ejmdWhYNsHtehw7qT.xGBciNCP4X6Y/lL2brIJWHjYvbikbxW",
+            "name": "bb",
+            "id": 28
+            }
+        ]
+        },
+        {
+        "id": 3,
+        "name": "Backend",
+        "createdDate": "2022-09-01",
+        "description": "This team develops the backend/api of the project in a scalable way",
+        "color": "text-blue-500 bg-blue-100",
+        "userids": "28-29-",
+        "users": [
+            {
+            "email": "b@lws.com",
+            "name": "bb",
+            "id": 28
+            },
+            {
+            "email": "c@lws.com",
+            "password": "$2a$10$BOz2ejmdWhYNsHtehw7qT.xGBciNCP4X6Y/lL2brIJWHjYvbikbxW",
+            "name": "ccc",
+            "id": 29
+            }
+        ]
+        },
+        {
+        "name": "Business",
+        "description": "managing buisness & sales is the top priority of this body",
+        "createdDate": "2022-08-01",
+        "color": "text-orange-500 bg-orange-100",
+        "userids": "27-29-",
+        "users": [
+            {
+            "email": "a@lws.com",
+            "name": "aaa",
+            "id": 27
+            },
+            {
+            "email": "c@lws.com",
+            "password": "$2a$10$BOz2ejmdWhYNsHtehw7qT.xGBciNCP4X6Y/lL2brIJWHjYvbikbxW",
+            "name": "ccc",
+            "id": 29
+            }
+        ],
+        "id": 4
+        }
+    ]

@@ -1,0 +1,20 @@
+[
+  {
+    "email": "a@lws.com",
+    "password": "$2a$10$BOz2ejmdWhYNsHtehw7qT.xGBciNCP4X6Y/lL2brIJWHjYvbikbxW",
+    "name": "aa",
+    "id": 27
+  },
+  {
+    "email": "b@lws.com",
+    "password": "$2a$10$BOz2ejmdWhYNsHtehw7qT.xGBciNCP4X6Y/lL2brIJWHjYvbikbxW",
+    "name": "bb",
+    "id": 28
+  },
+  {
+    "email": "c@lws.com",
+    "password": "$2a$10$BOz2ejmdWhYNsHtehw7qT.xGBciNCP4X6Y/lL2brIJWHjYvbikbxW",
+    "name": "ccc",
+    "id": 29
+  }
+]
